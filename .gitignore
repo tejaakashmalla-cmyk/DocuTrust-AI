@@ -1,0 +1,35 @@
+# Python Virtual Environment
+venv/
+backend/venv/
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Environment variables
+.env
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Upload folder
+backend/app/uploads/
+
+# ChromaDB
+backend/app/vectorstore/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db

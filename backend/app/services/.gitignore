@@ -1,0 +1,25 @@
+# Python
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Environment
+.env
+
+# Node
+node_modules/
+frontend/node_modules/
+
+# VS Code
+.vscode/
+
+# Uploads
+backend/app/uploads/
+
+# ChromaDB
+backend/app/vectorstore/
+
+# Logs
+*.log
